@@ -1,9 +1,8 @@
-#3 Pass the Message Project
+#4 Counter
+
+https://codepen.io/konradszymanski/pen/xxwGaoP
 
 
-https://codepen.io/konradszymanski/pen/KKpjQKr
-
-
-#3 100+ JavaScript Projects for Beginners
-project #3 from:
+#4 100+ JavaScript Projects for Beginners
+project #4 from:
 https://jsbeginners.com/javascript-projects-for-beginners/
