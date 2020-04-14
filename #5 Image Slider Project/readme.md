@@ -1,4 +1,4 @@
-#5 Counter
+#5 Image Slider 
 
 https://codepen.io/konradszymanski/pen/VwvLgYG
 
