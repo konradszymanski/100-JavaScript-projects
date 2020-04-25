@@ -1,9 +1,11 @@
 # Filter-Project
-my info: 
+// my info: 
 cloned and deleted app.js content. 
+I moved up div section with filter box 
 
 
-// wrote by JSBeginners:
+
+// info by JSBeginners:
 TASK:
 1. Download the source code from the github repository above.
 2. Delete the contents of the app.js file.
