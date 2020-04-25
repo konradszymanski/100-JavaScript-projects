@@ -2,6 +2,7 @@
 // my info: 
 cloned and deleted app.js content. 
 I moved up div section with filter box 
+I deleted webfonts folder
 
 
 
