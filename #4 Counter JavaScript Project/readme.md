@@ -1,4 +1,4 @@
-#4 Counter
+#4 Counter Project
 
 https://konradszymanski.github.io/Counter-Project-JS/
 
