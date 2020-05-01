@@ -1,0 +1,45 @@
+body{
+  background-color: #13293D;
+}
+ img{
+    min-width: 500px;
+    height: 400px;  
+  }
+.container{
+  min-width: 500px;
+  height: 400px;
+  margin: 0 auto;
+  background-color:#363537;
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+  flex-direction: row;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  border: 7px solid #fff;
+  background: url(https://i.redd.it/wpn9t2egd7cy.png) center center no-repeat;
+  background-size: cover;
+}
+button{
+  font-size: 50px;
+  padding: 5px 10px;
+  background-color: #3a4a63;
+  border: 4px solid #fff;
+  border-radius: 10px;
+}
+.fa-angle-left,
+.fa-angle-right{
+  color: #fff;
+}
+.left{
+  position: relative;
+  left: -25px;
+}
+.right{
+  position: relative;
+  left: 25px;
+}
+*/
