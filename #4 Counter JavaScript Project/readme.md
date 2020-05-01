@@ -1,7 +1,6 @@
 #4 Counter
 
-https://codepen.io/konradszymanski/pen/xxwGaoP
-
+https://konradszymanski.github.io/Counter-Project-JS/
 
 #4 100+ JavaScript Projects for Beginners
 project #4 from:
